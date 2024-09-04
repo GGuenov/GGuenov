@@ -1,6 +1,6 @@
 <div display="flex" justify-content="center">
   
-<h2>I'm Germán!</h2> <p>(as in /ɡweˈnɔv/)</p>
+<h2>I'm Germán!</h2> <p>(as in /xɛrˈmɑːn/)</p>
 </div>
 
 Dedicated and adaptable Full Stack Web Developer with a solid marketing background, high knowledge of math and extensive experience in the fiber optic networking field.
